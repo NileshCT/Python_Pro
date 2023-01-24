@@ -1,4 +1,2 @@
-# Hello-Nilesh
-HELLO ABHI
-Ambajogai
-today i am going to start 2nd topic of the gitup
+HEY EVERYONE THIS IS MY PRACTICE REPO. 
+EVERYONE CAN CHECK THIS ONE.
